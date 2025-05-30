@@ -64,7 +64,7 @@ This open-source project is designed for developers, gamers, and educators inter
 Contributions are welcome! Fork the repo, create a feature branch, and submit a pull request. For major changes, open an issue to discuss your ideas.
 
 ## Sponsorship
-Support ArcaneLoom’s development through [GitHub Sponsors](https://github.com/sponsors/yourusername)! Your contributions fund:
+Support ArcaneLoom’s development through [GitHub Sponsors](https://github.com/sponsors/raziyagavrilov)! Your contributions fund:
 - New sigil patterns and rift types.
 - Enhanced thread mechanics and visual effects.
 - Tutorials for C++ and game development.
